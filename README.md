@@ -1,4 +1,4 @@
-# Prak4-PWL-ReactJS
+# Prak2-PWL-ReactJS
 Praktium Pengembangan Web Lanjut Minggu 2
 
 # IDENTITAS MAHASISWA
